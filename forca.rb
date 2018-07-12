@@ -59,6 +59,7 @@ def joga nome
         end
     puts "Você ganhou #{pontos_ate_agora} pontos até agora!"
     end
+    
 end
 
 
