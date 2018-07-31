@@ -75,3 +75,13 @@ ruby forca.rb
 ruby forca.rb 
 ruby forca.rb 
 logout
+claer
+clear
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby main.rb 
+logout

@@ -1,6 +1,3 @@
-#!/bin/env ruby
-# encoding: utf-8
-
 def avisa_chute_repetido chute
     puts "Você já chutou #{chute}."
 end

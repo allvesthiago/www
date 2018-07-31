@@ -47,11 +47,11 @@ def joga nome
     
 end
 
+def jogo_da_forca
+    nome = da_boas_vindas
 
-# laço principal 
-nome = da_boas_vindas
-
-loop do 
-    joga nome
-    break if nao_jogar_novamente?
+    loop do 
+        joga nome
+        break if nao_jogar_novamente?
+    end
 end
