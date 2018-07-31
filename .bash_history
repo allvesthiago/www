@@ -46,3 +46,32 @@ vagrant halt
 logout
 clear
 logout
+clear
+ls
+logout
+clear
+ls
+ruby forca.rb
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+n
+ruby forca.rb 
+ruby forca.rb 
+n
+n
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+ruby forca.rb 
+logout
