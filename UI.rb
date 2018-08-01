@@ -1,4 +1,4 @@
-def avisa_chute_repetido chute
+def avisa_chute_efetuado chute
     puts "Você já chutou #{chute}."
 end
 

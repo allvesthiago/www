@@ -1,6 +1,3 @@
-#!/bin/env ruby
-# encoding: utf-8
-
 require_relative 'UI' 
 
 def joga nome
@@ -11,9 +8,8 @@ def joga nome
     pontos_ate_agora = 0
     while erros < 5
         chute = pede_um_chute chutes, erros
-        
         if chutes.include? chute
-            avisa_chute_repetido chute
+            avisa_chute_efetuado chute
             next
         end
 

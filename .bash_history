@@ -85,3 +85,6 @@ ruby forca.rb
 ruby forca.rb 
 ruby main.rb 
 logout
+clear
+ls
+logout
