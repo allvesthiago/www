@@ -44,8 +44,9 @@ def nao_jogar_novamente?
 	nao_quero_jogar.upcase == "N"
 end
 
-def cabecalho_de_tentativa chutes, erros
+def cabecalho_de_tentativa chutes, erros, mascara
     puts "\n\n\n\n"
+    puts "Palavra Secreta: #{mascara}"
     puts "Erros até agora: #{erros}"
     puts "Chutes até agora: #{chutes}"
 end
