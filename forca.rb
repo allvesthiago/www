@@ -1,3 +1,4 @@
+#<Encoding:UTF-8>
 require_relative 'UI' 
 
 def save_rank nome, pontos_totais
@@ -49,12 +50,12 @@ def pede_um_chute_valido chutes, erros, mascara
 end
 
 
-def joga nome, pontos_totais
+def joga nome
     palavra_secreta = sorteia_palavra_secreta
 
     erros = 0
     chutes = []
-    pontos_ate_agora = pontos_totais
+    pontos_ate_agora = 0
     while erros < 5
         mascara = palavra_mascarada palavra_secreta, chutes
         chute = pede_um_chute_valido chutes, erros, mascara
@@ -97,7 +98,7 @@ def jogo_da_forca
 
 
     loop do 
-        pontos_totais += joga nome, pontos_totais
+        pontos_totais += joga nome 
        
         if le_rank[1].to_i < pontos_totais
             save_rank nome, pontos_totais

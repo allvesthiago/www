@@ -1,3 +1,4 @@
+#<Encoding:UTF-8>
 def da_boas_vindas
     puts "Bem-vindo ao jogo da forca"
     puts "Qual é o seu nome?"
@@ -9,7 +10,7 @@ end
 
 
 def avisa_campeao_atual dados
-    puts "Nosso atual campeão: #{dados [0]} com #{dados [1]}"
+    puts "Nosso atual campeão: #{dados [0]} com #{dados [1]} pontos."
 end
 
 

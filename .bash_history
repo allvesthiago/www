@@ -88,3 +88,11 @@ logout
 clear
 ls
 logout
+clear
+ruby main.rb 
+ruby main.rb 
+ruby main.rb 
+ruby main.rb 
+ruby main.rb 
+clear
+logout
