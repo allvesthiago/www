@@ -96,3 +96,10 @@ ruby main.rb
 ruby main.rb 
 clear
 logout
+clear
+ruby m
+ls
+cd fogefoge
+ls
+ruby ma
+ruby main.rb
