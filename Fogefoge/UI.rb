@@ -1,4 +1,4 @@
-def da_boas_vindas
+  def da_boas_vindas
     puts "Bem vindo ao Foge foge!"
     puts "Qual o seu nome?"
     nome = gets.strip
@@ -15,6 +15,6 @@ end
 
 def pede_movimento
     puts "para onde deseja ir?"
-    movimento = gets.strip
+    movimento = gets.strip.upcase
     movimento
 end
