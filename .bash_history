@@ -103,3 +103,40 @@ cd fogefoge
 ls
 ruby ma
 ruby main.rb
+ls
+cd Fogefoge/
+ruby main.rb
+clear
+ruby logica.rb
+ruby main.rb
+clear
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+cd..
+ls
+cd ..
+ls
+ruby main.rb 
+cd Fogefoge/
+clear
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+clear
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+ruby main.rb
+vagrant halt
+logout

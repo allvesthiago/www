@@ -13,7 +13,7 @@ end
 def perfil nick
     
     conn = Faraday.new(:url => 'https://br1.api.riotgames.com/')
-    response = conn.get "lol/summoner/v3/summoners/by-name/#{nick}?api_key=RGAPI-c6533dac-7265-4ba3-b420-25a3a391c21d"
+    response = conn.get "lol/summoner/v3/summoners/by-name/#{nick}?api_key=RGAPI-317e9df6-b6ed-43dc-ae0c-604bdc0463c9"
     
     File.write "temporario.txt", response.body
     conteudo = File.read "temporario.txt"

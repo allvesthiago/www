@@ -1,1 +1,1 @@
-{"id":13890927,"accountId":209355934,"name":"Craxix","profileIconId":3506,"revisionDate":1534183692000,"summonerLevel":100}
+{"id":13290610,"accountId":208911382,"name":"DAT VELOSTER","profileIconId":3587,"revisionDate":1534261492000,"summonerLevel":74}
